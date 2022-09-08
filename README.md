@@ -1,3 +1,10 @@
+# This website is deprecated. Do not make changes here.
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+---
+
+
+
+
 # Welcome to the website for the US Research Software Sustainability Institute
 
 URSSI is a recently funded [NSF project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743188) designed to conceptualize a research software institute for the US. The effort will be carried out as a series of workshops and surveys to better understand how individuals and teams work to develop and maintain sustainable software in research institutions. 
